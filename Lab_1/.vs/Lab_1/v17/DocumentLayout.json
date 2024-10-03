@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viral chauhan\\OneDrive\\Desktop\\dotnet\\Lab_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\viral chauhan\\OneDrive\\Desktop\\dotnet\\Lab_1\\Lab_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\viral chauhan\\OneDrive\\Desktop\\dotnet\\Lab_1\\Lab_1\\Furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab_1\\Furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "C:\\Users\\viral chauhan\\OneDrive\\Desktop\\dotnet\\Lab_1\\Lab_1\\Furniture.cs",
+              "RelativeDocumentMoniker": "Lab_1\\Furniture.cs",
+              "ToolTip": "C:\\Users\\viral chauhan\\OneDrive\\Desktop\\dotnet\\Lab_1\\Lab_1\\Furniture.cs",
+              "RelativeToolTip": "Lab_1\\Furniture.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:53:52.825Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viral chauhan\\OneDrive\\Desktop\\dotnet\\Lab_1\\Lab_1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_1\\Program.cs",
+              "ToolTip": "C:\\Users\\viral chauhan\\OneDrive\\Desktop\\dotnet\\Lab_1\\Lab_1\\Program.cs",
+              "RelativeToolTip": "Lab_1\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAFQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:13:37.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

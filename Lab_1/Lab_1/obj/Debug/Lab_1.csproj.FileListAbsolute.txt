@@ -1,0 +1,7 @@
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.AssemblyReference.cache
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab_1\Lab_1\obj\Debug\Lab_1.pdb

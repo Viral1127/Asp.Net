@@ -1,0 +1,86 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model DataTable;
+@using System.Data;
+<main class="main" id="main">
+    <div class="row">
+        <div class="col-lg-12 ">
+            <a asp-controller="Customer" asp-action="AddCustomer">
+                <button class="btn btn-primary mb-3 float-end">Add</button>
+            </a>
+        </div>
+    </div>
+    <div class="card" style="width:100vw">
+        <div class="card-body" ">
+        @if (@TempData["Error"] != null)
+        {
+                <div class="alert alert-danger alert-dismissible fade show mt-3" role="alert">
+                    <h5 class="text-danger">@TempData["Error"]</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" area-label="close"></button>
+
+                </div>
+
+        }
+            <h5 class="card-title">Customer Table</h5>
+
+            <!-- Default Table -->
+
+            <table class="table" width="100vw">
+                <thead>
+                    <tr>
+                        <th scope="col">CustomerId</th>
+                        <th scope="col">CustomerName</th>
+                        <th scope="col">HomeAddress</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Mobile No</th>
+                        <th scope="col">GST No</th>
+                        <th scope="col">CityName</th>
+                        <th scope="col">Pin Code</th>
+                        <th scope="col">Net Amount</th>
+                        <th scope="col">UserName</th>
+                        <th scope="col" style="width:10vw;">Actions</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+        @foreach (DataRow customer in Model.Rows)
+        {
+                        <tr>
+                            <th scope="row">@customer["CustomerId"]</th>
+                            <td>@customer["CustomerName"]</td>
+                            <td>@customer["HomeAddress"]</td>
+                            <td>@customer["Email"]</td>
+                            <td>@customer["MobileNo"]</td>
+                            <td>@customer["GST_NO"]</td>
+                            <td>@customer["CityName"]</td>
+                            <td>@customer["PinCode"]</td>
+                            <td>@customer["CityName"]</td>
+                            <td>@customer["UserName"]</td>
+                           
+
+                            <td class="row">
+                                <div class="col-4">
+                                    <form >
+                                        
+                                        <button type="submit" class="btn btn-warning me-3"><i class="bi bi-pencil-square"></i></button>
+                                    </form>
+                                </div>
+                                <div class="col-8">
+                                    <form asp-controller="Customer" asp-action="DeleteCustomer" method="post">
+                                        <input type="hidden" name="userId" value="@Convert.ToInt32(customer["UserId"])">
+                                        <button type="submit" class="btn btn-danger"><i class="bi bi-trash"></i></button>
+                                    </form>
+                                </div>
+
+                            </td>
+                        </tr>
+        }
+                </tbody>
+            </table>
+            <!-- End Default Table Example -->
+        </div>
+    </div>
+</main>

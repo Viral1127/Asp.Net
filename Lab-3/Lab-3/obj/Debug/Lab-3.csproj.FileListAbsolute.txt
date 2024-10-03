@@ -1,0 +1,14 @@
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab-3\Lab-3\obj\Debug\Lab-3.csproj.AssemblyReference.cache
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab-3\Lab-3\obj\Debug\Lab-3.csproj.CoreCompileInputs.cache
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab-3\Lab-3\bin\Debug\Lab-3.exe.config
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab-3\Lab-3\bin\Debug\Lab-3.exe
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab-3\Lab-3\bin\Debug\Lab-3.pdb
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab-3\Lab-3\obj\Debug\Lab-3.exe
+C:\Users\viral chauhan\OneDrive\Desktop\dotnet\Lab-3\Lab-3\obj\Debug\Lab-3.pdb
+D:\Darshan University\sem-5\Prectical\dotnet\Lab-3\Lab-3\bin\Debug\Lab-3.exe.config
+D:\Darshan University\sem-5\Prectical\dotnet\Lab-3\Lab-3\bin\Debug\Lab-3.exe
+D:\Darshan University\sem-5\Prectical\dotnet\Lab-3\Lab-3\bin\Debug\Lab-3.pdb
+D:\Darshan University\sem-5\Prectical\dotnet\Lab-3\Lab-3\obj\Debug\Lab-3.csproj.AssemblyReference.cache
+D:\Darshan University\sem-5\Prectical\dotnet\Lab-3\Lab-3\obj\Debug\Lab-3.csproj.CoreCompileInputs.cache
+D:\Darshan University\sem-5\Prectical\dotnet\Lab-3\Lab-3\obj\Debug\Lab-3.exe
+D:\Darshan University\sem-5\Prectical\dotnet\Lab-3\Lab-3\obj\Debug\Lab-3.pdb

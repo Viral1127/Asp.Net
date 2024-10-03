@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyPortfolio1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyPortfolio1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\base.css",
+      "PackagePath": "staticwebassets\\css\\base.css"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\micons\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\css\\micons\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\micons\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\css\\micons\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\micons\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\css\\micons\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\micons\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\css\\micons\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\micons\\micons.css",
+      "PackagePath": "staticwebassets\\css\\micons\\micons.css"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-bold-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bold-webfont.eot"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-bold-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bold-webfont.svg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-bold-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bold-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-bold-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bold-webfont.woff"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bolditalic-webfont.eot"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bolditalic-webfont.svg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bolditalic-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bolditalic-webfont.woff"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-italic-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-italic-webfont.eot"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-italic-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-italic-webfont.svg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-italic-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-italic-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-italic-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-italic-webfont.woff"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-regular-webfont.eot"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-regular-webfont.svg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-regular-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\lora-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-regular-webfont.woff"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\lora\\stylesheet.css",
+      "PackagePath": "staticwebassets\\fonts\\lora\\stylesheet.css"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-bold-webfont.eot"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-bold-webfont.svg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-bold-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-bold-webfont.woff"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-bold-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-light-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-light-webfont.eot"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-light-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-light-webfont.svg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-light-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-light-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-light-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-light-webfont.woff"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-light-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-light-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-medium-webfont.eot"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-medium-webfont.svg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-medium-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-medium-webfont.woff"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-medium-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-regular-webfont.eot"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-regular-webfont.svg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-regular-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-regular-webfont.woff"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-regular-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-semibold-webfont.eot"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-semibold-webfont.svg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-semibold-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-semibold-webfont.woff"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-semibold-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\fonts\\poppins\\stylesheet.css",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\stylesheet.css"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\frds\\modal1.jpeg",
+      "PackagePath": "staticwebassets\\images\\frds\\modal1.jpeg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\frds\\modal2.jpeg",
+      "PackagePath": "staticwebassets\\images\\frds\\modal2.jpeg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\frds\\modal3.jpeg",
+      "PackagePath": "staticwebassets\\images\\frds\\modal3.jpeg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\frds\\modal4.jpeg",
+      "PackagePath": "staticwebassets\\images\\frds\\modal4.jpeg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\frds\\modal5.jpeg",
+      "PackagePath": "staticwebassets\\images\\frds\\modal5.jpeg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\frds\\modal6.jpeg",
+      "PackagePath": "staticwebassets\\images\\frds\\modal6.jpeg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\intro-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\intro-bg.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\beetle.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\beetle.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\clouds.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\clouds.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\liberty.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\liberty.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\lighthouse.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\lighthouse.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\modals\\m-beetle.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-beetle.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\modals\\m-clouds.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-clouds.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\modals\\m-liberty.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-liberty.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\modals\\m-lighthouse.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-lighthouse.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\modals\\m-salad.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-salad.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\modals\\m-shutterbug.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-shutterbug.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\salad.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\salad.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\portfolio\\shutterbug.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\shutterbug.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\profile-pic.jpg",
+      "PackagePath": "staticwebassets\\images\\profile-pic.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\sample-image.jpg",
+      "PackagePath": "staticwebassets\\images\\sample-image.jpg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\vc1.jpeg",
+      "PackagePath": "staticwebassets\\images\\vc1.jpeg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\vc2.jpeg",
+      "PackagePath": "staticwebassets\\images\\vc2.jpeg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\images\\vc3.jpeg",
+      "PackagePath": "staticwebassets\\images\\vc3.jpeg"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\inc\\sendEmail.php",
+      "PackagePath": "staticwebassets\\inc\\sendEmail.php"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\js\\jquery-2.1.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.3.min.js"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\js\\pace.min.js"
+    },
+    {
+      "Id": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyPortfolio1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyPortfolio1.props",
+      "PackagePath": "build\\MyPortfolio1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyPortfolio1.props",
+      "PackagePath": "buildMultiTargeting\\MyPortfolio1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyPortfolio1.props",
+      "PackagePath": "buildTransitive\\MyPortfolio1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

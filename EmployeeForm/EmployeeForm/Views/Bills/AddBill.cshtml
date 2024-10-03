@@ -1,0 +1,108 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model EmployeeForm.Models.BillsModel
+<div class="main" id="main">
+
+    <section class="section">
+        <div class="row">
+            <div class="col">
+
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Bills</h5>
+
+                        <!-- General Form Elements -->
+                        @using (Html.BeginForm("AddBill", "Bill", FormMethod.Post))
+                        {
+
+                            <div class="row mb-3">
+                                @Html.LabelFor(m => m.BillNumber, new { @class = "col-sm-2 col-form-label" })
+                                <div class="col-sm-10">
+                                    @Html.TextBoxFor(m => m.BillNumber, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(m => m.BillNumber, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                @Html.LabelFor(m => m.BillDate, "BIll Date", new { @class = "col-sm-2 col-form-label" })
+                                <div class="col-sm-10">
+                                    @Html.TextBoxFor(m => m.BillDate, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(m => m.BillDate, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                @Html.LabelFor(m => m.OrderId, "Order Id", new { @class = "col-sm-2 col-form-label" })
+
+                                <div class="col-sm-10">
+                                    @Html.DropDownList("DropdownList", new SelectList(ViewBag.OrderList , "OrderId" , "OrderId"), new { @class = "form-select" })
+                                    @Html.ValidationMessageFor(m => m.OrderId, "", new { @class = "text-danger" })
+
+                                </div>
+                            </div>
+
+                            <div class="row mb-3">
+                                @Html.LabelFor(m => m.TotalAmount, "Total Amount", new { @class = "col-sm-2 col-form-label" })
+
+                                <div class="col-sm-10">
+                                    @Html.TextBoxFor(m => m.TotalAmount, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(m => m.TotalAmount, "", new { @class = "text-danger" })
+
+
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                @Html.LabelFor(m => m.Discount, "Discount", new { @class = "col-sm-2 col-form-label" })
+
+                                <div class="col-sm-10">
+                                    @Html.TextBoxFor(m => m.Discount, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(m => m.Discount, "", new { @class = "text-danger" })
+
+
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                @Html.LabelFor(m => m.NetAmount, "Net Amount", new { @class = "col-sm-2 col-form-label" })
+
+                                <div class="col-sm-10">
+                                    @Html.TextBoxFor(m => m.NetAmount, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(m => m.NetAmount, "", new { @class = "text-danger" })
+
+
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                @Html.LabelFor(m => m.UserID, "User ID", new { @class = "col-sm-2 col-form-label" })
+
+                                <div class="col-sm-10">
+                                    @Html.DropDownList("Dropdownlist", new SelectList(ViewBag.UserList, "UserId", "UserName" ), new { @class = "form-select" })
+
+                                    <span asp-validation-for="UserID" class="text-danger"></span>
+
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-sm-10">
+                                    <button type="submit" class="btn btn-primary">Submit Form</button>
+                                </div>
+                            </div>
+
+
+                        }
+                        <!-- End General Form Elements -->
+
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+    </section>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

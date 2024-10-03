@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|d:\\darshan university\\sem-5\\prectical\\dev\\coffeeshopmanagementsystem\\coffeeshopmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|solutionrelative:coffeeshopmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|d:\\darshan university\\sem-5\\prectical\\dev\\coffeeshopmanagementsystem\\coffeeshopmanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|solutionrelative:coffeeshopmanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShopManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "CoffeeShopManagementSystem\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T14:33:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CoffeeShopManagementSystem\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CoffeeShopManagementSystem\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:32:08.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
