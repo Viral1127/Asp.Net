@@ -106,7 +106,15 @@ namespace CoffeeShopManagementSystem.Controllers
                 userModel.Password = data["Password"].ToString();
                 userModel.MobileNumber = data["MobileNo"].ToString();
                 userModel.Address = data["Address"].ToString();
-                userModel.IsActive = (bool)data["IsActive"];
+                if (data["IsActive"] != DBNull.Value)
+                {
+                    userModel.IsActive = Convert.ToBoolean(data["IsActive"]);
+                }
+                else
+                {
+                    userModel.IsActive = false;  // or another default value as needed
+                }
+                
             }
             return View("userAddEdit" , userModel);
         }
@@ -167,7 +175,7 @@ namespace CoffeeShopManagementSystem.Controllers
 
             if (isDeleted)
             {
-                TempData["ErrorMessage"] = "Product deleted successfully.";
+                TempData["ErrorMessage"] = "User deleted successfully.";
                 TempData["ErrorMessageType"] = "success";
             }
             else

@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DB9FB38D-27DF-4E53-8B52-B747F6542BE9}|MyPortfolio1\\MyPortfolio1.csproj|d:\\darshan university\\sem-5\\prectical\\dotnet\\myportfolio1\\myportfolio1\\views\\myportfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB9FB38D-27DF-4E53-8B52-B747F6542BE9}|MyPortfolio1\\MyPortfolio1.csproj|solutionrelative:myportfolio1\\views\\myportfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB9FB38D-27DF-4E53-8B52-B747F6542BE9}|MyPortfolio1\\MyPortfolio1.csproj|d:\\darshan university\\sem-5\\prectical\\dotnet\\myportfolio1\\myportfolio1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB9FB38D-27DF-4E53-8B52-B747F6542BE9}|MyPortfolio1\\MyPortfolio1.csproj|solutionrelative:myportfolio1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB9FB38D-27DF-4E53-8B52-B747F6542BE9}|MyPortfolio1\\MyPortfolio1.csproj|d:\\darshan university\\sem-5\\prectical\\dotnet\\myportfolio1\\myportfolio1\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{DB9FB38D-27DF-4E53-8B52-B747F6542BE9}|MyPortfolio1\\MyPortfolio1.csproj|solutionrelative:myportfolio1\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,44 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MyPortfolio1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MyPortfolio1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T07:05:18.341Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.css",
-              "DocumentMoniker": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\main.css",
-              "RelativeDocumentMoniker": "MyPortfolio1\\wwwroot\\css\\main.css",
-              "ToolTip": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\wwwroot\\css\\main.css",
-              "RelativeToolTip": "MyPortfolio1\\wwwroot\\css\\main.css",
-              "ViewState": "AQIAAAwKAAAAAAAAAAAmwCAKAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-08T14:29:37.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\Views\\MyPortfolio\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyPortfolio1\\Views\\MyPortfolio\\Index.cshtml",
-              "ToolTip": "D:\\Darshan University\\sem-5\\Prectical\\dotnet\\MyPortfolio1\\MyPortfolio1\\Views\\MyPortfolio\\Index.cshtml",
-              "RelativeToolTip": "MyPortfolio1\\Views\\MyPortfolio\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T14:28:38.679Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

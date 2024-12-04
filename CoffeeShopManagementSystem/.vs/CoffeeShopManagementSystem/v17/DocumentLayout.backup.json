@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\",
+  "WorkspaceRootPath": "D:\\Darshan University\\sem-5\\Prectical\\Asp.Net\\CoffeeShopManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|d:\\darshan university\\sem-5\\prectical\\dev\\coffeeshopmanagementsystem\\coffeeshopmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|solutionrelative:coffeeshopmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|d:\\darshan university\\sem-5\\prectical\\asp.net\\coffeeshopmanagementsystem\\coffeeshopmanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|solutionrelative:coffeeshopmanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|d:\\darshan university\\sem-5\\prectical\\dev\\coffeeshopmanagementsystem\\coffeeshopmanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|solutionrelative:coffeeshopmanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|d:\\darshan university\\sem-5\\prectical\\asp.net\\coffeeshopmanagementsystem\\coffeeshopmanagementsystem\\views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF1A8DE-182C-434D-AEA3-147EECF9C43B}|CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj|solutionrelative:coffeeshopmanagementsystem\\views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 285,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +30,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CoffeeShopManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "CoffeeShopManagementSystem\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHQAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "D:\\Darshan University\\sem-5\\Prectical\\Asp.Net\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Views\\User\\UserList.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShopManagementSystem\\Views\\User\\UserList.cshtml",
+              "ToolTip": "D:\\Darshan University\\sem-5\\Prectical\\Asp.Net\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Views\\User\\UserList.cshtml",
+              "RelativeToolTip": "CoffeeShopManagementSystem\\Views\\User\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T14:33:07.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T13:45:30.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "CoffeeShopManagementSystem\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "CoffeeShopManagementSystem\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Darshan University\\sem-5\\Prectical\\Asp.Net\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CoffeeShopManagementSystem\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Darshan University\\sem-5\\Prectical\\Asp.Net\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CoffeeShopManagementSystem\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T14:32:08.751Z",
+              "WhenOpened": "2024-12-04T13:42:09.295Z",
               "EditorCaption": ""
             }
           ]

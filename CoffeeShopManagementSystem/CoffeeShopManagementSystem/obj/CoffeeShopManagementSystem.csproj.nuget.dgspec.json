@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj": {}
+    "D:\\Darshan University\\sem-5\\Prectical\\Asp.Net\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj": {
+    "D:\\Darshan University\\sem-5\\Prectical\\Asp.Net\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj",
+        "projectUniqueName": "D:\\Darshan University\\sem-5\\Prectical\\Asp.Net\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj",
         "projectName": "CoffeeShopManagementSystem",
-        "projectPath": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj",
+        "projectPath": "D:\\Darshan University\\sem-5\\Prectical\\Asp.Net\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem.csproj",
         "packagesPath": "C:\\Users\\viral chauhan\\.nuget\\packages\\",
-        "outputPath": "D:\\Darshan University\\sem-5\\Prectical\\dev\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\obj\\",
+        "outputPath": "D:\\Darshan University\\sem-5\\Prectical\\Asp.Net\\CoffeeShopManagementSystem\\CoffeeShopManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\viral chauhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
